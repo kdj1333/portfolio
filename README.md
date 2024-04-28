@@ -13,7 +13,7 @@
 <br />
 
 # 📝Projects
-5개월간 진행했던 프로젝트들 입니다!  
+대학교를 다니며 진행했던 프로젝트들 입니다!  
 팀장으로서는 운영적인 면과 ***팀원들 학습 관리***, 프로젝트 일정 관리 등 많은 경험을 할 수 있었고,  
 프로젝트 역할면에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
@@ -36,7 +36,6 @@
 # 📞 Contact
 
 - 이메일 : qweasd1333@naver.com
-  
 - 깃허브 : <a href="https://github.com/kdj1333">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
