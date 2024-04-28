@@ -38,8 +38,8 @@
         </a>
       </td>
       <td>
-       <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
+       <a href="https://youtube.com/shorts/XCnQlQxmUy8?feature=share" title="택배 자동분류 시스템">
+          <img align="center" src="https://i9.ytimg.com/vi/XCnQlQxmUy8/mqdefault.jpg?sqp=COi6ubEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQCBlKFIwDw==&rs=AOn4CLD_zBzMqEaDy9Ezlj_GzSRmdxQ8fQ" width="300" alt-text="택배 자동분류 시스템">
         </a>
       </td>
       <td>
