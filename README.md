@@ -50,7 +50,7 @@
     </tr>
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+> <b><em><a href="https://studio.youtube.com/channel/UCX_e3ANEt396pbq8fCHZO1w/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">More videos...</a></em></b>
 
 
 <br />
