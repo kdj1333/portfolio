@@ -29,14 +29,12 @@
 
 <br />
 
-
-# 🎞 Youtube
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://youtu.be/nR3SIPwBE40" title="자율주행 스마트카">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="자율주행 스마트카">
+          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CPSEubEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQGXtDLuoPtTbPjL0nV5wdvOAZCA" width="300" alt-text="자율주행 스마트카">
         </a>
       </td>
       <td>
