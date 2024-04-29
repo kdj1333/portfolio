@@ -35,7 +35,7 @@
 > - 개발기간 : 2021.09.04-12.14
 > - 핵심 역할 : 팀장, 
 
->> [프로젝트 상세 설명](https://github.com/kdj1333/-autonomous-driving) 
+>> [프로젝트 상세 설명](https://github.com/kdj1333/Delivery-sorting-system) 
 > - >> - Language : Python
 > - >> - Skill : RaspberryPi
 
