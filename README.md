@@ -34,12 +34,12 @@
     <tr>
       <td>
         <a href="https://youtu.be/nR3SIPwBE40" title="자율주행 스마트카">
-          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CPSEubEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQGXtDLuoPtTbPjL0nV5wdvOAZCA" width="300" alt-text="자율주행 스마트카">
+          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CPSEubEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCQGXtDLuoPtTbPjL0nV5wdvOAZCA" width="250" alt-text="자율주행 스마트카">
         </a>
       </td>
       <td>
        <a href="https://youtube.com/shorts/XCnQlQxmUy8?feature=share" title="택배 자동분류 시스템">
-          <img align="center" src="https://i9.ytimg.com/vi/XCnQlQxmUy8/mqdefault.jpg?sqp=COi6ubEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQCBlKFIwDw==&rs=AOn4CLD_zBzMqEaDy9Ezlj_GzSRmdxQ8fQ" width="300" alt-text="택배 자동분류 시스템">
+          <img align="center" src="https://i9.ytimg.com/vi/XCnQlQxmUy8/mqdefault.jpg?sqp=COi6ubEG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQCBlKFIwDw==&rs=AOn4CLD_zBzMqEaDy9Ezlj_GzSRmdxQ8fQ" width="250" alt-text="택배 자동분류 시스템">
         </a>
       </td>
       <td>
