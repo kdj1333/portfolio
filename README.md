@@ -47,7 +47,7 @@
     <tr>
       <td>
         <a href="https://youtu.be/nR3SIPwBE40" title="자율주행 스마트카">
-          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CKSFvLEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDY0l7_q_jaA6ZWv4AUQZnu-zKSDg" width="300" alt-text="자율주행 스마트카">
+          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CJS4w7EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCJMeYSkM1M6LvbUBLiMsGFKw1Dqw" width="300" alt-text="자율주행 스마트카">
         </a>
       </td>
       <td>
