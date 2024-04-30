@@ -56,8 +56,8 @@
         </a>
       </td>
       <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
+        <a href="" title="">
+        <img align="center" src="" alt-text="">
           </a>
       </td>
     </tr>
