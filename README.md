@@ -52,7 +52,7 @@
       </td>
       <td>
        <a href="https://youtube.com/shorts/XCnQlQxmUy8?feature=share" title="택배 자동분류 시스템">
-          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CMj5hrIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDM9upbAVhOeiTwBWL3EhcMEcyRow" width="300" alt-text="택배 자동분류 시스템">
+          <img align="center" src="https://i9.ytimg.com/vi/qfvp8_2KYc8/mqdefault.jpg?sqp=CPT7hrIG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCBlKE0wDw==&rs=AOn4CLAK7HF4A9vU90czasiKoHnumfxejA" width="300" alt-text="택배 자동분류 시스템">
         </a>
       </td>
       <td>
