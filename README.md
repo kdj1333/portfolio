@@ -56,8 +56,6 @@
         </a>
       </td>
       <td>
-        <a href="" title="">
-        <img align="center" src="" alt-text="">
           </a>
       </td>
     </tr>
