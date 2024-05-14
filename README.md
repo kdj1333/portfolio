@@ -41,26 +41,7 @@
 
 <br />
 
-# 🎞 Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/nR3SIPwBE40" title="자율주행 스마트카">
-          <img align="center" src="https://i9.ytimg.com/vi/nR3SIPwBE40/mqdefault.jpg?sqp=CMj5hrIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDM9upbAVhOeiTwBWL3EhcMEcyRow" width="300" alt-text="자율주행 스마트카">
-        </a>
-      </td>
-      <td>
-       <a href="https://youtube.com/shorts/XCnQlQxmUy8?feature=share" title="택배 자동분류 시스템">
-          <img align="center" src="https://i9.ytimg.com/vi/qfvp8_2KYc8/mqdefault.jpg?sqp=CPT7hrIG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCBlKE0wDw==&rs=AOn4CLAK7HF4A9vU90czasiKoHnumfxejA" width="300" alt-text="택배 자동분류 시스템">
-        </a>
-      </td>
-      <td>
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 > <b><em><a href="https://www.youtube.com/channel/UCX_e3ANEt396pbq8fCHZO1w">More videos...</a></em></b>
 
 
@@ -76,6 +57,6 @@
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
   
-- 유튜브 :<a href="https://www.youtube.com/channel/UCX_e3ANEt396pbq8fCHZO1w">
+- 유튜브 :<a href="https://www.youtube.com/@user-ql8xh2zv8f/playlists">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
