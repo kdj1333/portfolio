@@ -42,11 +42,8 @@
 <br />
 
 
-> <b><em><a href="https://www.youtube.com/channel/UCX_e3ANEt396pbq8fCHZO1w">More videos...</a></em></b>
 
 
-<br />
-<br />
 
 
 # 📞 Contact
