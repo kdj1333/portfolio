@@ -43,13 +43,12 @@
 
 ## 3.☕ 커피 판매 관리 시스템
 
-> 자율주행 스마트카 _(캡스톤디자인 팀 프로젝트)_
-> - 개발기간 : 2022.09.04-12.14
-> - 핵심 역할 : 팀장, 라인트레이서 센서, OpenCV를 활용한 자율주행 스마트카, 파이썬-아두이노 연동제어를 통해 개발
+> 커피 판매 관리 시스템 _(DB SQL 실습)_
+> - 개발기간 : 2021.11.01-12.01
 
->> [프로젝트 상세 설명](https://github.com/kdj1333/-autonomous-driving)  
->> - Language : Python
->> - Skill : Arduino, 커뮤니케이션, 유연성, 팀워크, 리더십
+>> [프로젝트 상세 설명](https://github.com/kdj1333/coffee-sell)  
+>> - Language : DB SQL
+>> - Skill : SQL, 시간관리, 문제해결능력
 
 <br />
 
