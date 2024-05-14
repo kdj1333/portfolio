@@ -25,7 +25,7 @@
 
 >> [프로젝트 상세 설명](https://github.com/kdj1333/-autonomous-driving)  
 >> - Language : Python
->> - Skill : Arduino
+>> - Skill : Arduino, 커뮤니케이션, 유연성, 팀워크, 리더십
 
 <br />
 
@@ -37,7 +37,7 @@
 
 >> [프로젝트 상세 설명](https://github.com/kdj1333/Delivery-sorting-system) 
 > - >> - Language : Python
-> - >> - Skill : RaspberryPi
+> - >> - Skill : RaspberryPi, 커뮤니케이션, 유연성, 팀워크, 리더십
 
 <br />
 
