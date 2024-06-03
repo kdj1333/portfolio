@@ -88,6 +88,16 @@
 
 <br />
 
+## 7.🏆 상장/수료증
+
+
+>> [프로젝트 상세 설명](https://github.com/kdj1333/certificate)  
+>> - Language : 
+>> - Skill :
+>> - Point : 
+
+<br />
+
 
 
 
