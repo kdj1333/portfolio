@@ -50,6 +50,7 @@
 >> [프로젝트 상세 설명](https://github.com/kdj1333/Delivery-sorting-system) 
 > - >> - Language : Python
 > - >> - Skill : RaspberryPi, 커뮤니케이션, 유연성, 팀워크, 리더십
+>   >> - Point : Invention Contest 단체상, 은상 입상
 
 <br />
 
@@ -72,6 +73,18 @@
 >> [프로젝트 상세 설명](https://github.com/kdj1333/linux-fedora32)  
 >> - Language : Linux
 >> - Skill : Linux, 시간관리, 문제해결능력
+
+<br />
+
+## 6.📃 해킹페스티벌 - 스마트에너지 해킹시나리오
+
+> 해킹페스티벌 _(스마트에너지 해킹시나리오 작성)_
+> - 개발기간 : 2022.10.01-10.07
+
+>> [프로젝트 상세 설명](https://github.com/kdj1333/hacking-scenario)  
+>> - Language : 
+>> - Skill :
+>> - Point : 해킹페스티벌 동상 입상
 
 <br />
 
